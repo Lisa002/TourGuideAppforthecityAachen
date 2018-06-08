@@ -1,0 +1,166 @@
+<resources>
+    <!-- Title for the application. -->
+    <string name="app_name">Tour Guide App for the city Aachen</string>
+
+    <!-- 1st category for the city tour guide app of the city Aachen  -->
+    <string name="category_restaurant">Restaurants</string>
+
+    <!-- 2nd category for the city tour guide app of the city Aachen  -->
+    <string name="category_attractions">Attractions</string>
+
+    <!-- 3d category for the city tour guide app of the city Aachen  -->
+    <string name="category_schools">Schools</string>
+
+    <!-- 4th category for the city tour guide app of the city Aachen  -->
+    <string name="category_other_fun_stuff">Fun Stuff</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- attraction name Aachener Dom -->
+    <string name="attraction_aachener_dom">Aachener Dom</string>
+    <!-- attraction address Aachener Dom -->
+    <string name="attraction_address_aachener_adom">Domhof 1, 52062 Aachen </string>
+
+    <!-- attraction name Elisenbrunnen -->
+    <string name="attraction_elisenbrunnen">Elisenbrunnen</string>
+    <!-- attraction address Elisenbrunnen -->
+    <string name="attraction_address_elisenbrunnen">Friedrich-Wilhelm-Platz, 52062 Aachen</string>
+
+    <!-- attraction name Ponttor -->
+    <string name="attraction_ponttor">Ponttor</string>
+    <!-- attraction address Ponttor -->
+    <string name="attraction_address_ponttor">Pontwall 18, 52062 Aachen</string>
+
+    <!-- attraction name Marschiertor-->
+    <string name="attraction_marschiertor">Marschiertor</string>
+    <!-- attraction address Marschiertor -->
+    <string name="attraction_address_marschiertor">Franzstraße 995, 52064 Aachen</string>
+
+    <!-- attraction name Grashaus-->
+    <string name="attraction_grashaus">Grashaus</string>
+    <!-- attraction address Grashaus -->
+    <string name="attraction_address_grashaus">Fischmarkt 3, 52062 Aachen</string>
+
+    <!-- attraction name Couven-Museum -->
+    <string name="attraction_couven_museum">Couven-Museum</string>
+    <!-- attraction address Couven-Museum -->
+    <string name="attraction_address_couven_museum">Hühnermarkt 17, 52062 Aachen</string>
+
+    <!-- other fun stuff name Minimovve Boulderhalle-->
+    <string name="other_fun_stuff_boulderhall">Minimoove Boulderhalle</string>
+    <!-- other fun stuff address Minimoove Boulderhalle -->
+    <string name="other_fun_stuff_address_boulderhall">Kurbrunnenstraße 22, 52066 Aachen</string>
+
+
+    <!-- other fun stuff name Raus Escape Room-->
+    <string name="other_fun_stuff_raus_escape_room">Raus! Escape Room Aachen</string>
+    <!-- other fun stuff address Raus Escape Room -->
+    <string name="other_fun_stuff_address_raus_escape_room">Oppenhoffallee 115, 52066 Aachen</string>
+
+
+    <!-- other fun stuff name Virtual Area-->
+    <string name="other_fun_stuff_virtual_area">Virtual Area</string>
+    <!-- other fun stuff address Virtual Area -->
+    <string name="other_fun_stuff_address_virtual_area">Oligsbendengasse 9, 52070 Aachen</string>
+
+
+    <!-- other fun stuff name Cineplex Aachen-->
+    <string name="other_fun_stuff_cineplex">Cineplex Aachen</string>
+    <!-- other fun stuff address Cineplex Aachen -->
+    <string name="other_fun_stuff_address_cineplex">Borngasse 30, 52064 Aachen</string>
+
+
+    <!-- other fun stuff name Carolus Thermen-->
+    <string name="other_fun_stuff_carolus_thermen">Carolus Thermen</string>
+    <!-- other fun stuff address Carolus Thermen -->
+    <string name="other_fun_stuff_address_carolus_thermen">Passstraße 79, 52070 Aachen</string>
+
+    <!-- other fun stuff name Aachener Tierpark Euregiozoo-->
+    <string name="other_fun_stuff_aachener_tierpark_euregiozoo">Aachener Tierpark Euregiozoo</string>
+    <!-- other fun stuff address Aachener Tierpark Euregiozoo -->
+    <string name="other_fun_stuff_address_aachener_tierpark_euregiozoo">Obere Drimbornstrasse 44, 52066 Aachen</string>
+
+
+    <!-- other fun stuff name Drehturm Belvedere Aachen-->
+    <string name="other_fun_stuff_drehturm_belvedere_aachen">Drehturm Belvedere Aachen</string>
+    <!-- other fun stuff address Drehturm Belvedere Aachen -->
+    <string name="other_fun_stuff_address_drehturm_belvedere_aachen">Belvedereallee 5, 52070 Aachen</string>
+
+
+    <!-- restaurant name Kanpai Sushi, Running Sushi-->
+    <string name="restaurant_kanpai_sushi_running_sushi">Kanpai Sushi, Running Sushi</string>
+    <!-- restaurant address Kanpai Sushi, Running Sushi -->
+    <string name="restaurant_address_kanpai_sushi_running_sushi">Alexanderstraße 17, 52062 Aachen</string>
+
+
+    <!-- restaurant name Restaurant Aix Mediterrena-->
+    <string name="restaurant_restaurant_aix_mediterrena">Restaurant Aix Mediterrena</string>
+    <!-- restaurant address Restaurant Aix Mediterrena-->
+    <string name="restaurant_address_restaurant_aix_mediterrena">Rommelsgasse 5, 52062 Aachen</string>
+
+
+    <!-- restaurant name MAREDO Steakhouse Aachen-->
+    <string name="restaurant_maredo_steakhouse_sachen">MAREDO Steakhouse Aachen</string>
+    <!-- restaurant address MAREDO Steakhouse Aachen -->
+    <string name="restaurant_address_maredo_steakhouse_sachen">Reihstraße 10, 52062 Aachen</string>
+
+    <!-- restaurant name Pfannenzauber-->
+    <string name="restaurant_pfannenzauber">Drehturm Belvedere Aachen</string>
+    <!-- restaurant address Pfannenzauber -->
+    <string name="restaurant_address_pfannenzauber">Suermondtplatz 12, 52062 Aachen</string>
+
+    <!-- restaurant name Pontgrill-->
+    <string name="restaurant_pontgrill">Pontgrill</string>
+    <!-- restaurant address Pontgrill -->
+    <string name="restaurant_address_pontgrill">Pontstraße 119, 52062 Aachen</string>
+
+    <!-- restaurant name OZAKI Sushi & Grill-->
+    <string name="restaurant_ozaki_sushi_grill">OZAKI Sushi &amp; Grill</string>
+    <!-- restaurant address OZAKI Sushi & Grill -->
+    <string name="restaurant_address_ozaki_sushi_grill">Blondelstraße 11, 52062 Aachen</string>
+
+    <!-- restaurant name essBar-->
+    <string name="restaurant_essbar">essBar</string>
+    <!-- restaurant address essBar -->
+    <string name="restaurant_address_essbar">Pontstraße 122, 52062 Aachen</string>
+
+
+    <!-- schools name Abendgymnasium Aachen-->
+    <string name="schools_abendgymnasium_aachen">Abendgymnasium Aachen</string>
+    <!-- schools address Abendgymnasium Aachen -->
+    <string name="schools_address_abendgymnasium_aachen">Hander Weg 89, 52072 Aachen</string>
+
+    <!-- schools name Abendrealschule-->
+    <string name="schools_abendrealschule">Abendrealschule</string>
+    <!-- schools address essBar -->
+    <string name="schools_address_abendrealschule">Bischofstraße 21, 52068 Aachen</string>
+
+    <!-- schools name RWTH Aachen-->
+    <string name="schools_rwth_aachen">RWTH Aachen</string>
+    <!-- schools address RWTH Aachen-->
+    <string name="schools_address_rwth_aachen">Templergraben 55, 52062 Aachen</string>
+
+    <!-- schools name FH Aachen-->
+    <string name="schools_fh_aachen">FH Aachen</string>
+    <!-- schools address FH Aachen-->
+    <string name="schools_address_fh_aachen">Bayernallee 11, 52066 Aachen</string>
+
+    <!-- schools name Kaiser-Karls-Gymnasium-->
+    <string name="schools_kaiser_karls_gymnasium">Kaiser-Karls-Gymnasium</string>
+    <!-- schools address Kaiser-Karls-Gymnasium -->
+    <string name="schools_address_kaiser_karls_gymnasium">Augustinerbach 7, 52062 Aachen</string>
+
+    <!-- schools name Schule am Lousberg-->
+    <string name="schools_schule_am_lousberg">Schule am Lousberg</string>
+    <!-- schools address Schule am Lousberg -->
+    <string name="schools_address_schule_am_lousberg">Saarstraße 66, 52062 Aachen</string>
+
+    <!-- schools name 4. Gesamtschule Aachen-->
+    <string name="schools_4._gesamtschule_aachen">4. Gesamtschule Aachen</string>
+    <!-- schools address 4. Gesamtschule Aachen-->
+    <string name="schools_address_4._gesamtschule_aachen">Sandkaulstraße 75, 52062 Aachen</string>
+
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color for the restaurant category -->
+    <color name="category_restaurant">#E57373</color>
+
+    <!-- Background color for the attraction category -->
+    <color name="category_attractions">#fb8c00</color>
+
+    <!-- Background color for the school category -->
+    <color name="category_schools">#7cb342</color>
+
+    <!-- Background color for the other fun stuff category -->
+    <color name="category_other_fun_stuff">#008ba3</color>
+</resources>
